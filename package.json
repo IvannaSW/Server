@@ -1,0 +1,10 @@
+{
+  "name": "FirstApp",
+  "description": "A package using naive versioning",
+  "author": "Ivanna",
+  "dependencies": {
+    "express": ">= 1.2.0",
+    "optimist": ">= 0.1.0"
+  },
+  "engine": "node 0.4.1"
+}
